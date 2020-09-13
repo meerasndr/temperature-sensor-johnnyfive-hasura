@@ -12,6 +12,8 @@ Software & Data management used:
 - Apollo GraphQL Client
 - Hasura endpoint (Heroku + Postgres)
 
+This also became a blog post [here](https://hasura.io/blog/experiments-with-arduino-and-hasura/)
+
 This is WIP. To-Dos / Questions:
 - Host the entire Node+J5 script on a platform like Heroku, to enable it to run non-stop
 - If the above is done, how will it communicate with the Arduino board?
